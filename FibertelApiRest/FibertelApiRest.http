@@ -1,0 +1,6 @@
+@FibertelApiRest_HostAddress = http://localhost:5251
+
+GET {{FibertelApiRest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

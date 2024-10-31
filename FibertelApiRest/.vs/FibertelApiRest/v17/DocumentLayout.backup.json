@@ -1,0 +1,725 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB34157-4B8B-4E83-9B1A-2EC059CF249E}|..\\FibertelData\\FibertelData.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fiberteldata\\store\\extentions\\detallepedidoextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB34157-4B8B-4E83-9B1A-2EC059CF249E}|..\\FibertelData\\FibertelData.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fiberteldata\\store\\extentions\\clienteextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Seeds\\ModelBuilderExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\store\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\store\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\store\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\store\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\store\\comprobantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\store\\comprobantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\store\\recojocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\store\\recojocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\store\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\store\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\store\\enviocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\store\\enviocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\store\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\store\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\store\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\store\\personalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\store\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\store\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\store\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\store\\marcacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\models\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:models\\customresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|c:\\users\\edgar\\documentos\\final final\\fibertelbackend\\fibertelapirest\\controllers\\auth\\authenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EAA31A-CD98-4ECB-B24B-FB8D7BBB4C41}|FibertelApiRest.csproj|solutionrelative:controllers\\auth\\authenticacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\AdministradorServiceDblmpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IPedidoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\EnvioTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\PedidoServiceDbImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IAdministradorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\PedidoTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\RecojoTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\FibertelDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\DetallePedidoServiceDbImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\ClienteTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\DetallePedidoTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\DetallePedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\PersonalTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IDetallePedidoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Recojo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\ProductoServiceDbImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Auth\\Services\\AuthenticationServiceDbImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Auth\\Repositories\\AuthenticationRepositoryImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IProductoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\LoginRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\AppAdministrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Repositories\\IAuthenticationRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Services\\IAuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Utils\\ICrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\LoginResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 177,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetallePedidoExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelData\\Store\\Extentions\\DetallePedidoExtentions.cs",
+              "RelativeDocumentMoniker": "..\\FibertelData\\Store\\Extentions\\DetallePedidoExtentions.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelData\\Store\\Extentions\\DetallePedidoExtentions.cs",
+              "RelativeToolTip": "..\\FibertelData\\Store\\Extentions\\DetallePedidoExtentions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:49:01.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelData\\Store\\Extentions\\ClienteExtentions.cs",
+              "RelativeDocumentMoniker": "..\\FibertelData\\Store\\Extentions\\ClienteExtentions.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelData\\Store\\Extentions\\ClienteExtentions.cs",
+              "RelativeToolTip": "..\\FibertelData\\Store\\Extentions\\ClienteExtentions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:31:32.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnvioController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\EnvioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Store\\EnvioController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\EnvioController.cs",
+              "RelativeToolTip": "Controllers\\Store\\EnvioController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:45:42.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecojoController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\RecojoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Store\\RecojoController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\RecojoController.cs",
+              "RelativeToolTip": "Controllers\\Store\\RecojoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:45:02.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonalController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\PersonalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Store\\PersonalController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\PersonalController.cs",
+              "RelativeToolTip": "Controllers\\Store\\PersonalController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:44:40.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\BannerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Store\\BannerController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\BannerController.cs",
+              "RelativeToolTip": "Controllers\\Store\\BannerController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:03:55.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Store\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\Store\\CategoriaController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:47:00.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Seeds\\ModelBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Seeds\\ModelBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Seeds\\ModelBuilderExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Seeds\\ModelBuilderExtensions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:16:25.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetallePedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\DetallePedidoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Store\\DetallePedidoController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\DetallePedidoController.cs",
+              "RelativeToolTip": "Controllers\\Store\\DetallePedidoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:46:25.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComprobanteController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\ComprobanteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Store\\ComprobanteController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\ComprobanteController.cs",
+              "RelativeToolTip": "Controllers\\Store\\ComprobanteController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:46:26.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:50:01.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MarcaController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\MarcaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Store\\MarcaController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\MarcaController.cs",
+              "RelativeToolTip": "Controllers\\Store\\MarcaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:44:14.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdministradorServiceDblmpl.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\AdministradorServiceDblmpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\AdministradorServiceDblmpl.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\AdministradorServiceDblmpl.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\AdministradorServiceDblmpl.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswEkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:29:52.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IPedidoService.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IPedidoService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:05:34.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Store\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\PedidoController.cs",
+              "RelativeToolTip": "Controllers\\Store\\PedidoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:36:29.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Store\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Store\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\Store\\ProductoController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:54:13.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnvioTable.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\EnvioTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\EnvioTable.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\EnvioTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\EnvioTable.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:14:43.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PedidoServiceDbImpl.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\PedidoServiceDbImpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\PedidoServiceDbImpl.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\PedidoServiceDbImpl.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\PedidoServiceDbImpl.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAA6wKcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:09:53.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAdministradorService.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IAdministradorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IAdministradorService.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IAdministradorService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IAdministradorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:29:48.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PedidoTable.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\PedidoTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\PedidoTable.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\PedidoTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\PedidoTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:13:26.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RecojoTable.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\RecojoTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\RecojoTable.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\RecojoTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\RecojoTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:14:52.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FibertelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\FibertelDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\FibertelDbContext.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\FibertelDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\FibertelDbContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwF8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:45:46.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DetallePedidoServiceDbImpl.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\DetallePedidoServiceDbImpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\DetallePedidoServiceDbImpl.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\DetallePedidoServiceDbImpl.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\DetallePedidoServiceDbImpl.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswE0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:05:58.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClienteTable.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\ClienteTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\ClienteTable.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\ClienteTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\ClienteTable.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:20:07.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Cliente.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Cliente.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA/wBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:20:02.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DetallePedidoTable.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\DetallePedidoTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\DetallePedidoTable.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\DetallePedidoTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\DetallePedidoTable.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:48:45.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\DetallePedido.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\DetallePedido.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:23:18.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PersonalTable.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\PersonalTable.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\PersonalTable.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\PersonalTable.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Sources\\BaseDeDatos\\Tables\\PersonalTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:18:44.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Pedido.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:59:17.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IDetallePedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IDetallePedidoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IDetallePedidoService.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IDetallePedidoService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IDetallePedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:05:42.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Marca.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Marca.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:59:46.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Recojo.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Recojo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Recojo.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Recojo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Models\\Recojo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:00:39.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductoServiceDbImpl.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\ProductoServiceDbImpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\ProductoServiceDbImpl.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\ProductoServiceDbImpl.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Store\\Services\\ProductoServiceDbImpl.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:57:42.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomResponse.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Models\\CustomResponse.cs",
+              "RelativeDocumentMoniker": "Models\\CustomResponse.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Models\\CustomResponse.cs",
+              "RelativeToolTip": "Models\\CustomResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:58:16.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuthenticationServiceDbImpl.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Auth\\Services\\AuthenticationServiceDbImpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Auth\\Services\\AuthenticationServiceDbImpl.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Auth\\Services\\AuthenticationServiceDbImpl.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Auth\\Services\\AuthenticationServiceDbImpl.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:20:50.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AuthenticationRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Auth\\Repositories\\AuthenticationRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Auth\\Repositories\\AuthenticationRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Auth\\Repositories\\AuthenticationRepositoryImpl.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelData\\Auth\\Repositories\\AuthenticationRepositoryImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:52:37.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IProductoService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IProductoService.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IProductoService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Store\\Services\\IProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:56:35.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T22:49:49.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:52:29.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppAdministrador.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\AppAdministrador.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\AppAdministrador.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\AppAdministrador.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\AppAdministrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:41:33.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Repositories\\IAuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Repositories\\IAuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Repositories\\IAuthenticationRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Repositories\\IAuthenticationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:42:22.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Services\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Services\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Services\\IAuthenticationService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Services\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:52:13.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Utils\\ICrud.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Utils\\ICrud.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Utils\\ICrud.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Utils\\ICrud.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:53:02.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\mbues\\OneDrive\\Documentos\\MBS_IC\\CUARTO CICLO\\PROYECTO\\FibertelDomain\\Auth\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:41:30.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthenticacionController.cs",
+              "DocumentMoniker": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Auth\\AuthenticacionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Auth\\AuthenticacionController.cs",
+              "ToolTip": "C:\\Users\\edgar\\Documentos\\final final\\FibertelBackend\\FibertelApiRest\\Controllers\\Auth\\AuthenticacionController.cs",
+              "RelativeToolTip": "Controllers\\Auth\\AuthenticacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:47:11.51Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 211,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

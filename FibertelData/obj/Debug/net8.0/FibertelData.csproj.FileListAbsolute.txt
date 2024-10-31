@@ -1,0 +1,48 @@
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/FibertelData.csproj.AssemblyReference.cache
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/FibertelData.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/FibertelData.AssemblyInfoInputs.cache
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/FibertelData.AssemblyInfo.cs
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/FibertelData.csproj.CoreCompileInputs.cache
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/bin/Debug/net8.0/FibertelData.deps.json
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/bin/Debug/net8.0/FibertelData.dll
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/bin/Debug/net8.0/FibertelData.pdb
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/bin/Debug/net8.0/FibertelDomain.dll
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/bin/Debug/net8.0/FibertelDomain.pdb
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/Fibertel.FCC246D9.Up2Date
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/FibertelData.dll
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/refint/FibertelData.dll
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/FibertelData.pdb
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/ref/FibertelData.dll
+C:/Users/mbues/OneDrive/Documentos/MBS_IC/CUARTO CICLO/PROYECTO/FibertelData/obj/Debug/net8.0/FibertelData.sourcelink.json
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/bin/Debug/net8.0/FibertelData.deps.json
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/bin/Debug/net8.0/FibertelData.dll
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/bin/Debug/net8.0/FibertelData.pdb
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/bin/Debug/net8.0/FibertelDomain.dll
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/bin/Debug/net8.0/FibertelDomain.pdb
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/FibertelData.csproj.AssemblyReference.cache
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/FibertelData.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/FibertelData.AssemblyInfoInputs.cache
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/FibertelData.AssemblyInfo.cs
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/FibertelData.csproj.CoreCompileInputs.cache
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/FibertelData.sourcelink.json
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/Fibertel.FCC246D9.Up2Date
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/FibertelData.dll
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/refint/FibertelData.dll
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/FibertelData.pdb
+C:/Users/edgar/Documentos/final final/FibertelBackend/FibertelData/obj/Debug/net8.0/ref/FibertelData.dll
+/home/edgardo/Documentos/backendfinal/FibertelData/bin/Debug/net8.0/FibertelData.deps.json
+/home/edgardo/Documentos/backendfinal/FibertelData/bin/Debug/net8.0/FibertelData.dll
+/home/edgardo/Documentos/backendfinal/FibertelData/bin/Debug/net8.0/FibertelData.pdb
+/home/edgardo/Documentos/backendfinal/FibertelData/bin/Debug/net8.0/FibertelDomain.dll
+/home/edgardo/Documentos/backendfinal/FibertelData/bin/Debug/net8.0/FibertelDomain.pdb
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/FibertelData.csproj.AssemblyReference.cache
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/FibertelData.GeneratedMSBuildEditorConfig.editorconfig
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/FibertelData.AssemblyInfoInputs.cache
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/FibertelData.AssemblyInfo.cs
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/FibertelData.csproj.CoreCompileInputs.cache
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/FibertelData.sourcelink.json
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/FibertelData.csproj.CopyComplete
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/FibertelData.dll
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/refint/FibertelData.dll
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/FibertelData.pdb
+/home/edgardo/Documentos/backendfinal/FibertelData/obj/Debug/net8.0/ref/FibertelData.dll
